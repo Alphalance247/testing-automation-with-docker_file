@@ -1,0 +1,1 @@
+Whenever code is pushed to the main branch, log into my Docker Hub account, run docker build, and run docker push.
